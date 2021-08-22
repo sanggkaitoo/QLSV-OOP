@@ -1,0 +1,10 @@
+SP01	Laptop Dell Vostro 5568	Dell	42	17000000	Chiec
+SP02	Iphone X	Apple	35	21000000	Chiec
+SP03	Macbook Pro 2018	Apple	18	40000000	Chiec
+SP04	Samsung Galaxy Note8	Samsung	2000	19990000	Chiec
+SP05	Vsmart Active 1+	Vin	9	6300000	Chiec
+SP01	Laptop Dell Vostro 5568	Dell	43	17000000	Chiec
+SP02	Iphone X	Apple	33	21000000	Chiec
+SP03	Macbook Pro 2018	Apple	18	40000000	Chiec
+SP04	Samsung Galaxy Note8	Samsung	2000	19990000	Chiec
+SP05	Vsmart Active 1+	Vin	9	6300000	Chiec

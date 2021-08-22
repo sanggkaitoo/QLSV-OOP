@@ -1,0 +1,3 @@
+NV01	Nguyen Hai Dang	38000000
+NV02	Bui Viet Anh	19990000
+NV03	Pham Hoai Nam	74000000
